@@ -1,0 +1,16 @@
+p {
+    background-color: pink;
+    font: "Verdana", "DejaVu Sans", "sans-serif";
+}
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
+#number-4,
+#bigger-font {
+    font-size: 24px;
+}
+#number-4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}   
